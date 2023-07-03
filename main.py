@@ -26,7 +26,7 @@ class Voxel(Button):
             origin_y=0.5,
             texture=texture,
             color=color,
-            highlight_color=color.lime,
+            highlight_color=color.green,
             scale=1.0
         )
 
